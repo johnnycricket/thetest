@@ -1,0 +1,19 @@
+{
+  "name": "thetest",
+  "version": "1.0.0",
+  "description": "A test for others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnycricket/thetest.git"
+  },
+  "author": "John Vorwald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnycricket/thetest/issues"
+  },
+  "homepage": "https://github.com/johnnycricket/thetest#readme"
+}
